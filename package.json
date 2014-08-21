@@ -1,0 +1,15 @@
+{
+  "name": "NoAnExMy",
+  "version": "0.0.0",
+  "description": "node, angular and express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jahid haque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.8.5",
+    "jade": "^1.5.0"
+  }
+}
